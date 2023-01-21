@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java_sandnox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_sandnox_jar</output-path>
+    <root id="archive" name="java_sandnox.jar">
+      <element id="module-output" name="java_sandnox" />
+    </root>
+  </artifact>
+</component>
